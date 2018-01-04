@@ -1,0 +1,72 @@
+body{
+
+}
+.content{
+	min-height: 100%;
+	position: relative;
+}
+.image_back{
+	width: 100%;
+	height: 950px;
+	background:  url("h3.png") 50% 65% no-repeat, url("h2.png") 50% 53% no-repeat, url("main.png") 50% 39% no-repeat, url("/home/david-boc/Pictures/your_verse_hero.jpg")0% 100% no-repeat; 
+	
+}
+
+
+.menu{
+	width: 65%;
+	height: 60px;
+	position: absolute;
+	top: 5%;
+	left: 13%;
+	background:linear-gradient(to bottom, #464242, #7A7A7A); 
+	border-radius: 10px;
+}
+button{
+	background:linear-gradient(to bottom, #464242, #7A7A7A); 
+	width: 11%;
+	height: 65%;
+	position: relative; 
+	top: 10%;
+	float: left;
+	border: none;
+}
+.text_menu{
+	font-weight: bold;
+	font-size: 15px;
+	color: #fff;
+}
+input{
+	width: 90%;
+	height: 90%;
+	border-radius: 10px;
+}
+img{
+	width: 24.725%;
+	height: 200px;
+	border: ;
+	display: inline-block;
+	float: ;
+}
+.bottom_image{
+	width: 100%;
+	height: 220px;
+	
+}
+.info{
+	font-size: 12px;
+	color: #6e6e6e;
+	text-align: center;
+	float: left;
+}
+ul{
+	float: right;
+	clear: both;
+	position: relative;
+	bottom: 12px;
+}
+li{
+	list-style: none;
+	font-size: 12px;
+	display: inline-block;
+}
